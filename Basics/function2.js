@@ -7,7 +7,7 @@ function sum(a,b) {
 }
 
 function sum2(c,d) {
-    return c + d;
+    return c + d; // value of d is undefined
 }
 
 hello("hello world");
